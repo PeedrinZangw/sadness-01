@@ -1,1 +1,1 @@
-run.py: discord.py:worker
+worker: node run.py
